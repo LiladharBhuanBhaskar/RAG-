@@ -83,3 +83,6 @@ Make sure Docker is installed and running.
 docker-compose up --build
 
 ![image alt](https://github.com/LiladharBhuanBhaskar/RAG-/blob/d0e4f19f36a54a6ab735dd20b18afd73a57819df/WhatsApp%20Image%202025-10-27%20at%2015.35.08_0e38e859.jpg)
+
+2nd 
+![image alt](https://github.com/LiladharBhuanBhaskar/RAG-/blob/dc5083b5272cd351ff0feebcb408343d066008c5/WhatsApp%20Image%202025-10-27%20at%2015.35.54_cd2c48ef.jpg)
